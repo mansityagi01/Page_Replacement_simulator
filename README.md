@@ -102,4 +102,8 @@ python simulator_gui.py   # Windows
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/mansityagi01)  
 
 
+<<<<<<< HEAD
 💡 **Pro Tip**: Use prime number sequences (e.g., `2 3 5 7 11`) for interesting fault patterns!
+=======
+💡 **Pro Tip**: Use prime number sequences (e.g., `2 3 5 7 11`) for interesting fault patterns!
+>>>>>>> 6d53fc1 (File created)
