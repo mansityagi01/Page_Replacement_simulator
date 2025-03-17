@@ -21,17 +21,14 @@ Side-by-side comparison of all algorithms with vibrant charts.
 
 📸 Screenshots
 
-C:\Users\ASUS\OneDrive\Desktop\OS PROJECT\Screenshot 1.jpg
-
-C:\Users\ASUS\OneDrive\Desktop\OS PROJECT\Scrrenshot 2.jpg
-
-C:\Users\ASUS\OneDrive\Desktop\OS PROJECT\Screenshot 3.jpg
-
-C:\Users\ASUS\OneDrive\Desktop\OS PROJECT\Screenshot 4.jpg
+![Screenshot 1](https://github.com/user-attachments/assets/f9132e2c-c38b-4e01-902a-e82be0e50b7f)
+![Scrrenshot 2](https://github.com/user-attachments/assets/b721ac61-45dc-47bc-a78d-6aa4dc8094e0)
+![Screenshot 3](https://github.com/user-attachments/assets/5f9029f3-c32b-4707-9073-aaf7da516b4c)
+![Screenshot 4](https://github.com/user-attachments/assets/df00e7e9-ca76-4b18-ae3f-650f0c5f6c95)
 
 🌐 Flowcharts
 
-C:\Users\ASUS\OneDrive\Desktop\OS PROJECT\Screenshot 5.jpg
+![Screenshot 5](https://github.com/user-attachments/assets/75005831-389e-43f9-80e6-44151d2aacbc)
 
 🛠️ Prerequisites
 
@@ -48,7 +45,7 @@ numpy
 🚀 Installation
 
 Clone the Repo:
-bash git clone https://github.com/yourusername/page-replacement-simulator.git
+bash git clone https://github.com/mansityagi01/Page_Replacement_simulator.git
 cd page-replacement-simulator
 
 Install Dependencies:
